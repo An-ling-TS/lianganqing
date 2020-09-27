@@ -1,4 +1,4 @@
-### Hi there 👋
+### 欢迎光临 👋
 
 <!--
 **lianganqing/lianganqing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
