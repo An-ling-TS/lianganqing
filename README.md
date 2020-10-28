@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 <!--START_SECTION:waka-->
 ```text
-Week: 19 October, 2020 - 26 October, 2020
+Week: 20 October, 2020 - 27 October, 2020
 
-JavaScript   5 hrs 5 mins    ████████████████▓░░░░░░░░   67.00 % 
-Python       1 hr 58 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.09 % 
-Java         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-Vue.js       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+JavaScript   5 hrs 5 mins    █████████████▓░░░░░░░░░░░   55.22 % 
+Python       3 hrs 36 mins   █████████▓░░░░░░░░░░░░░░░   39.09 % 
+Java         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Vue.js       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 ```
 <!--END_SECTION:waka-->
