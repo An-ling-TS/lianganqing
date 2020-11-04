@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 <!--START_SECTION:waka-->
 ```text
-Week: 26 October, 2020 - 02 November, 2020
+Week: 27 October, 2020 - 03 November, 2020
 
-Python       3 hrs 22 mins   ██████████████████████▒░░   89.28 % 
-JavaScript   17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-C++          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Python       2 hrs 39 mins   █████████████████████▓░░░   86.77 % 
+JavaScript   17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+C++          6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 ```
 <!--END_SECTION:waka-->
