@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 -->
 <!--START_SECTION:waka-->
 ```text
-Week: 27 October, 2020 - 03 November, 2020
+Week: 28 October, 2020 - 04 November, 2020
 
-Python       2 hrs 39 mins   █████████████████████▓░░░   86.77 % 
-JavaScript   17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-C++          6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+Python   2 hrs 39 mins   █████████████████████████   99.59 % 
 ```
 <!--END_SECTION:waka-->
