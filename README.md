@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 <!--START_SECTION:waka-->
 ```text
-Week: 29 October, 2020 - 05 November, 2020
+Week: 30 October, 2020 - 06 November, 2020
 
-Python   2 hrs 39 mins   █████████████████████████   99.59 % 
+Python   54 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
