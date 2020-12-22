@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 <!--START_SECTION:waka-->
 ```text
-Week: 13 December, 2020 - 20 December, 2020
+Week: 14 December, 2020 - 21 December, 2020
 
-Vue.js       8 hrs 49 mins   ██████████████████▒░░░░░░   73.46 % 
-Java         2 hrs 40 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.32 % 
-XML          23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-Properties   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Vue.js       10 hrs 3 mins   ██████████████████░░░░░░░   71.55 % 
+Java         3 hrs 22 mins   ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
+XML          23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+JavaScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Properties   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 <!--END_SECTION:waka-->
