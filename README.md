@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 <!--START_SECTION:waka-->
 ```text
-Week: 26 December, 2020 - 02 January, 2021
-
-Java     15 mins         █████████████▒░░░░░░░░░░░   53.36 % 
-Vue.js   13 mins         ███████████▓░░░░░░░░░░░░░   46.64 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
