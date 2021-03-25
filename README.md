@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 <!--START_SECTION:waka-->
 ```text
-Week: 16 March, 2021 - 23 March, 2021
-
-Java         23 mins         ███████████████████████░░   92.01 % 
-JavaScript   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
